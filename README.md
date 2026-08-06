@@ -1,5 +1,5 @@
 # 🌐 PHENOM CFEA: Chaotic Field Energy Architecture
-**[Instruction-less Hardware Core & Cyber-Resilient Computational Engine]**  
+**[Instruction-less Hardware Core & Hardware-Rooted Cyber-Resilience]**  
 *The Ultimate Deep-Tech Physical Compute Engine Driven by Lyapunov Energy Dissipation Dynamics*
 
 ---
@@ -7,28 +7,28 @@
 ### 📜 Patent & Academic Status
 - **Patent Status:** 대한민국 지식재산처(MOIP) **독점 원천 기술 특허 출원 완료** (`10-2026-0146081`)
 - **Academic Status:** 타겟 국제 학술지 선정 중 (Targeting Top-tier Journals) 및 CERN Zenodo 공식 DOI 등록 예정
-- **Core Paradigm:** Non-Von Neumann, Instruction-less Field-Coupled Architecture
+- **Core Paradigm:** Non-Von Neumann, Instruction-less Field-Coupled Architecture & Hardware-Rooted Security
 
 ---
 
 > 💡 **Architectural Impact (Hardware & Silicon Infrastructure):**  
-> By eliminating CPU control units and instruction fetch-decode-execute cycles entirely, PHENOM CFEA replaces linear instruction streams with continuous-time physical field convergence. This directly minimizes switching overhead, bypasses the Von Neumann bottleneck, and scales hardware pipeline efficiency near the thermodynamic limits (Landauer Bound) of silicon infrastructure.
+> By eliminating CPU control units and instruction fetch-decode-execute cycles entirely, PHENOM CFEA replaces linear instruction streams with continuous-time physical field convergence. This not only bypasses the Von Neumann bottleneck and scales hardware efficiency near the thermodynamic limits (Landauer Bound), but also **completely eradicates software-level instruction vulnerability vectors (e.g., code injection, buffer overflows) at the silicon level.**
 
 ---
 
 ## 🚀 Vision: The Thermodynamic Computing Era & Industrial Paradigm Shift
-현대 하이테크 컴퓨팅 인프라는 CPU의 제어 장치(Control Unit)와 명령어 디코더(Instruction Decoder)가 강제하는 순차적 스트림 처리, 그리고 란다우어의 원리(Landauer's Principle)에 근거한 비가역적 열역학적 손실과 발열이라는 물리적 임계점에 직면해 있습니다.
+현대 하이테크 컴퓨팅 인프라는 CPU의 제어 장치(Control Unit)와 명령어 디코더(Instruction Decoder)가 강제하는 순차적 스트림 처리로 인해 발생하는 란다우어 한계(Landauer Bound)의 에너지 손실뿐만 아니라, **소프트웨어 명령어 계층의 구조적 취약점(취약한 디코딩, 악성 코드 주입)으로 인한 심각한 정보보안 위협**에 직면해 있습니다.
 
-**PHENOM CFEA** 프로젝트는 소프트웨어 명령어 루프나 확률적 블랙박스 모델의 쳇바퀴에서 완전히 벗어나, 물리 장(Field)의 상호작용과 **리아푸노프 에너지 소산 동역학(Lyapunov Energy Dissipation Dynamics)**을 통해 시스템이 스스로 최소 에너지 상태로 결정론적으로 수렴하는 차세대 하드웨어 코어 아키텍처를 구현합니다.
+**PHENOM CFEA** 프로젝트는 소프트웨어 명령어 루프나 확률적 블랙박스 모델의 쳇바퀴에서 완전히 벗어나, 물리 장(Field)의 상호작용과 **리아푸노프 에너지 소산 동역학(Lyapunov Energy Dissipation Dynamics)**을 통해 시스템이 스스로 최소 에너지 상태로 결정론적으로 수렴하는 차세대 하드웨어 코어 아키텍처를 구현합니다. 이를 통해 초저전력과 하드웨어 레벨의 절대적 무결성(Cyber-Resilience)을 동시에 달성합니다.
 
 ---
 
 ## 🛠️ Core: Architecture Mechanism & CS-Driven Optimization
 
-### 1. Instruction-less Distributed Core Design (Control-Unit-Free)
-기존 아키텍처는 개별 연산 노드에 명령어를 발행하는 제어 장치와 복잡한 디코더 구조로 인해 거대한 하드웨어 면적 낭비와 지연을 유발합니다.
-- **제어 장치 완전 소거:** 범용 CPU의 명령어 해석 및 발행 구조를 원천 배제하고, 4,096개의 분산 물리 연산 노드가 로컬 SRAM을 기반으로 물리 필드의 상호작용에 따라 직접 상태 변수를 갱신합니다.
-- **Temporal Locality 극대화:** 중앙 메모리와의 반복적 데이터 왕복을 차단하고 캐시 친화적 토폴로지로 연산 패스 상의 병목을 격파했습니다.
+### 1. Instruction-less Distributed Core Design (Control-Unit-Free & Zero-Vulnerability)
+기존 아키텍처는 개별 연산 노드에 명령어를 발행하는 제어 장치와 복잡한 디코더 구조로 인해 거대한 하드웨어 면적 낭비와 소프트웨어 공격 표면(Attack Surface)을 유발합니다.
+- **제어 장치 완전 소거 및 공격 벡터 원천 차단:** 범용 CPU의 명령어 해석 및 발행 구조를 원천 배제하여, 공격자가 실행 파일이나 명령어를 주입하여 제어권을 탈취할 수 있는 전통적인 소프트웨어 취약점 벡터(Instruction Stream Vulnerability)가 물리적으로 성립하지 않습니다.
+- **4,096 분산 물리 연산 노드:** 각 노드가 로컬 SRAM을 보유하여 중앙 메모리와의 반복적 데이터 왕복을 차단하고 캐시 친화적 토폴로지로 연산 패스 상의 병목을 격파했습니다.
 
 ### 2. Lyapunov Energy Dissipation & Dynamic Power Control
 기존 이산 최적화 알고리즘이 겪는 연산 지연과 유휴 전력 소모 문제를 물리계의 수렴 법칙으로 해결합니다.
@@ -38,33 +38,33 @@
 
 ---
 
-## 🛡️ Dual-Layer Physical Security Defense
-지능형 물리 공격 및 런타임 데이터 오염 환경에서도 시스템 무결성을 영구 보장하는 하드웨어 레벨의 방어 체계입니다.
+## 🛡️ Dual-Layer Physical Security Defense & Cyber-Resilience
+지능형 물리 공격, 결함 주입(Fault Injection), 그리고 런타임 데이터 오염 환경에서도 시스템 무결성을 영구 보장하는 하드웨어 레벨의 방어 체계입니다.
 
-- **하드웨어 자가 치유 (Self-Healing):** 런타임 중 데이터 오염(DDoS 등) 발생 시 외부 소프트웨어 개입 없이 리아푸노프 소산 동역학이 노이즈 성분을 흡수하여 글로벌 기저 상태로 자동 복구합니다.
+- **하드웨어 자가 치유 (Autonomous Self-Healing):** 런타임 중 데이터 오염(DDoS/Fault Injection 등) 발생 시 외부 소프트웨어 개입 없이 리아푸노프 소산 동역학 자체가 노이즈 성분을 실시간 흡수하여 글로벌 기저 상태로 자동 복구합니다.
 - **하드웨어 대칭 잠금 (Symmetry Lock):** 외부 레지스터 입력 인터페이스(MMIO)에서 가중치 비대칭 변조 공격이 감지될 경우, 물리적 와이어를 통해 대칭 주소에 동시 기록을 강제하여 무한 발진을 원천 차단합니다.
 
 ---
 
 ## 🏢 Cross-Industry Application Domains (Deep-Tech IP Target)
-본 원천 기술은 초거대 규모 최적화와 열역학적 엔트로피 제어가 필수적인 글로벌 선도 산업의 하드웨어 및 임베디드 스택에 IP 라이선싱 형태로 완벽하게 이식됩니다.
+본 원천 기술은 초거대 규모 최적화와 열역학적 엔트로피 제어, 그리고 초고신뢰성 정보보안이 필수적인 글로벌 선도 산업의 하드웨어 및 임베디드 스택에 IP 라이선싱 형태로 완벽하게 이식됩니다.
 
-- **💾 반도체 (Semiconductor EDA & HBM Yield):** 수십억 개의 트랜지스터 라우팅 배치 공정 최적화 및 3D 나노 스케일 패턴 결함 제어 시뮬레이션 속도 극대화.
+- **💾 반도체 및 고신뢰 하드웨어 보안 (Semiconductor EDA & HSM):** 수십억 개의 트랜지스터 라우팅 배치 공정 최적화 및 변조 불가능한 하드웨어 보안 모듈(HSM) 구현.
 - **⚡ AI & 가속기 (Next-Gen AI Hardware & GPU Clusters):** 수만 대 병렬 연산 간 전역 동기화 지연 및 통신 병목 해소, LLM 학습 시 발열 비용의 물리적 하한선 제어.
-- **🚗 모빌리티 & BMS (EV Battery & Autonomous FSD):** 수천 개 배터리 셀 내부의 미세 상태 변화 추적을 통한 열폭주 사전 차단 및 실시간 센서 연산 전력 절감.
-- **⚛️ 차세대 에너지 (Nuclear Fusion Plasma Control):** 토카막 내부의 초고온 플라즈마 국소 불안정성을 실시간 예측·억제하는 자기장 제어 다이나믹스 구축.
+- **🚗 모빌리티 & BMS (EV Battery & Autonomous FSD):** 수천 개 배터리 셀 내부의 미세 상태 변화 추적을 통한 열폭주 사전 차단 및 해킹 불가능한 실시간 센서 연산 전력 절감.
+- **⚛️ 차세대 에너지 및 방산 (Nuclear Fusion Plasma & Defense):** 토카막 내부 초고온 플라즈마 제어 및 미션 크리티컬 군사·항공우주 전자장치의 하드웨어 무결성 보장.
 
 ---
 
 ## 📊 Ultra-Scale Benchmark & Verification ($N = 4,096$)
-4,096 노드 스케일의 스트레스 테스트를 통해 고전적 제어 구조 대비 PHENOM CFEA 엔진의 압도적 수렴 및 전력 차단 효율을 실증했습니다.
+4,096 노드 스케일의 스트레스 테스트를 통해 고전적 제어 구조 대비 PHENOM CFEA 엔진의 압도적 수렴, 전력 차단, 그리고 보안 무결성 효율을 실증했습니다.
 
 | Metric | Conventional Instruction-Based Model | **PHENOM CFEA Core (Ours)** |
 | :--- | :--- | :--- |
 | **Convergence State** | ❌ Timeout / Pinning Failure | **✅ 100% Deterministic Convergence** |
 | **Convergence Time** | Variable / Unbounded | **⚡ 937 ns** |
 | **Dynamic Power (Post-Done)** | Continuous Leakage | **💎 0 W (Clock-Gated via CFEC_DONE)** |
-| **Security Resilience** | Software-Dependent (Vulnerable) | **🛡️ Hardware Self-Healing & Symmetry Lock** |
+| **Security & Vulnerability Surface** | Vulnerable to Instruction/Buffer Attacks | **🛡️ Zero-Instruction Attack Surface & Self-Healing** |
 
 ---
 
@@ -99,4 +99,4 @@
 
 ---
 
-*If you find the PHENOM CFEA architecture insightful to the next-gen zero-carbon computing era, please **star** this repository to support our research!*
+*If you find the PHENOM CFEA architecture insightful to the next-gen zero-carbon computing era, please star this repository to support our research!
