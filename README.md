@@ -66,6 +66,14 @@
 | **Dynamic Power (Post-Done)** | Continuous Leakage | **💎 0 W (Clock-Gated via CFEC_DONE)** |
 | **Security & Vulnerability Surface** | Vulnerable to Instruction/Buffer Attacks | **🛡️ Zero-Instruction Attack Surface & Self-Healing** |
 
+### 📈 System Simulation & Architecture Visualizations
+
+**1. Convergence Dynamics & State Transition**
+![Convergence Dynamics](assets/스크린샷%202026-08-03%20233805.png)
+
+**2. Core Topological Layout & Execution Flow**
+![Architecture Layout](assets/스크린샷%202026-08-04%20163520.png)
+
 ---
 
 ## 🔒 Security Notice & Enterprise PoC Inquiry
